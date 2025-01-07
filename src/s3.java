@@ -5,7 +5,7 @@ public class s3{
         String str = "hello";
         int len = str.length();
         System.out.println(str.length());
-        System.out.println(str.len-2);
+        System.out.println(str.length-2);
 
     }
 }
